@@ -7,7 +7,7 @@ Me chamo Julia e sou estudante de Análise e Desevolvimento de Sistemas.👨🏻
 - 📣 Nós podemos falar em: Português  
 
 <p align='center'>  
-  <a href="https://www.linkedin.com/in/julia-beatriz-80a645325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+  <a href="www.linkedin.com/in/julia-beatriz-80a645325">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="LINK_DO_SEU_INSTAGRAM_AQUI">
