@@ -6,6 +6,7 @@ Me chamo Julia e sou estudante de Análise e Desevolvimento de Sistemas.👨🏻
 - 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
 - 📣 Nós podemos falar em: Português  
 
+<p align="left
 💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
