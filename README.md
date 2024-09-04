@@ -10,7 +10,7 @@ Me chamo Julia e sou estudante de Análise e Desevolvimento de Sistemas.👨🏻
   <a href="www.linkedin.com/in/julia-beatriz-80a645325">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="LINK_DO_SEU_INSTAGRAM_AQUI">
+  <a href="https://www.instagram.com/juliabeatrizcd?igsh=MTc0OXdkcHQ5ZTE4aA==">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="LINK_DO_SEU_TWITTER_AQUI">
